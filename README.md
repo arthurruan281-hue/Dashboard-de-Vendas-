@@ -28,6 +28,3 @@ O desafio consiste em criar um dashboard de vendas no Excel, organizando e trans
 3. Se necessário, clique em **Dados > Atualizar Tudo**
 4. Utilize os filtros no dashboard para alterar a visão dos dados
 
-## 6. Link do repositório
-Cole aqui o link do seu repositório GitHub:
-- https://github.com/SEU-USUARIO/dashboard-vendas-excel
